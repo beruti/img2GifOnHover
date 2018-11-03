@@ -1,0 +1,7 @@
+#gifs-rows img {
+  position: relative;
+}
+#gifs-rows .gif-file {
+  display:none;
+  position: absolute;
+}
